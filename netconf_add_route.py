@@ -17,7 +17,7 @@ config_data = """
               <prefix>192.168.1.0</prefix>
               <mask>255.255.255.0</mask>
               <fwd-list>
-                <fwd>10.1.1.1</fwd>
+                <fwd>10.1.111.1</fwd>
               </fwd-list>
             </ip-route-interface-forwarding-list>
           </route>
