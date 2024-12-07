@@ -9,7 +9,6 @@ username = 'rakib'
 password = '1234'
 base_url = 'https://10.248.27.226/rest'
 
-# Static IP addresses to remove
 # নতুন ব্যবহারকারী তৈরি
 new_user = {
     "name": "rhassan",
