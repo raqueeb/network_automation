@@ -1,6 +1,5 @@
 বইটাকে কিভাবে সাজিয়েছি?
 
-!!! quote "কি চাই?"
     Simplicity boils down to two things: Identify the essential, and eliminate the rest.  
     
     – Leo Babauta
